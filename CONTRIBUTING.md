@@ -62,9 +62,9 @@ alternatives.
 
 # Additional Resources
 
-* [Explore the API](https://www.stellar.org/developers/reference/)
-* [Stack Exchange](http://stellar.stackexchange.com/)
-* #dev-discussion channel on [Keybase](https://keybase.io/team/stellar.public)
+* [Explore the API](https://www.aiblocks.io/developers/reference/)
+* [Stack Exchange](http://aiblocks.stackexchange.com/)
+* #dev-discussion channel on [Keybase](https://keybase.io/team/aiblocks.public)
 * [Contributor License Agreement][cla]
 
 This document is inspired by:
@@ -73,8 +73,8 @@ This document is inspired by:
 * https://github.com/thoughtbot/factory_girl_rails/blob/master/CONTRIBUTING.md
 * https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md
 
-[help-wanted]: https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Astellar+label%3A%22help+wanted%22
+[help-wanted]: https://github.com/issues?q=is%3Aopen+is%3Aissue+user%aiblocks+label%3A%22help+wanted%22
 [commit-msg]: https://github.com/erlang/otp/wiki/Writing-good-commit-messages
 [cla]: https://docs.google.com/forms/d/1g7EF6PERciwn7zfmfke5Sir2n10yddGGSXyZsq98tVY/viewform?usp=send_form
-[community-guidelines]: https://www.stellar.org/community-guidelines/
+[community-guidelines]: https://www.aiblocks.io/community-guidelines/
 [coc]: https://github.com/aiblocks/.github/blob/master/CODE_OF_CONDUCT.md
