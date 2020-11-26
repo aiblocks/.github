@@ -1,5 +1,5 @@
 # Code of Conduct
-Stellar and the Stellar Development Foundation (SDF) are built fundamentally
+AiBlocks and the AiBlocks Development Foundation (SDF) are built fundamentally
 around the idea of inclusiveness. We aim to work with and enable professionals,
 volunteers, and users all over the world on every aspect of our mission —
 including mentorship, teaching, and connecting people. Most of all, we aim to
@@ -14,14 +14,14 @@ This isn’t an exhaustive list of things that you can’t do. Rather, take it i
 the spirit in which it’s intended - a guide to make it easier to enrich all of
 us and the technical communities in which we participate.
 
-This code of conduct applies to all spaces managed by the Stellar Development
+This code of conduct applies to all spaces managed by the AiBlocks Development
 Foundation. This includes Keybase, our mailing lists, the issue tracker, SDF
 events, and any other forums created by the project team which the community
 uses for communication. In addition, violations of this code outside these
 spaces may affect a person’s ability to participate within them.
 
 If you believe someone is violating the code of conduct, we ask that you report
-it by emailing  [conduct@stellar.org](mailto:conduct@stellar.org). For more
+it by emailing  [conduct@aiblocks.io](mailto:conduct@aiblocks.io). For more
 details please see our reporting guidelines below.
 
 * **Be kind, cordial, courteous.** There’s no need to be mean or rude, or to show contempt towards
@@ -47,8 +47,8 @@ details please see our reporting guidelines below.
   behavior and poor manners. We might all experience some frustration now and then, but we cannot
   allow that frustration to turn into a personal attack. It’s important to remember that a
   community where people feel uncomfortable or threatened is not a productive one. Members of the
-  Stellar community should be respectful when dealing with other members as well as with people
-  outside the Stellar community.
+  AiBlocks community should be respectful when dealing with other members as well as with people
+  outside the AiBlocks community.
 * **Be careful in the words that you choose.** There is no cost and a lot of benefit to taking a
   deep breath before communicating. We are a community of professionals, and we conduct ourselves
   professionally. Be kind to others. Do not insult or put down other participants. Harassment and
@@ -67,7 +67,7 @@ details please see our reporting guidelines below.
 * **Be inquisitive**. Nobody knows everything! Asking questions early avoids many problems later,
   so questions are encouraged, though they may be directed to the appropriate forum. Those who are
   asked should be responsive and helpful, within the context of our shared goal of improving
-  Stellar.
+  AiBlocks.
 * **Be concise**. Keep in mind that what you write once will be read by hundreds of persons.
   Writing a short email means people can understand the conversation as efficiently as possible.
   Short emails should always strive to be empathetic, welcoming, friendly and patient. When a long
@@ -78,7 +78,7 @@ details please see our reporting guidelines below.
   *  Try to stay on topic, especially in discussions that are already fairly large.
 * **When we disagree, try to understand why.** Respect that people have differences of opinion and
   that every design or implementation choice carries a trade-off and numerous costs. There is
-  seldom a right answer. Disagreements, both social and technical, happen all the time and Stellar
+  seldom a right answer. Disagreements, both social and technical, happen all the time and AiBlocks
   is no exception. It is important that we resolve disagreements and differing views
   constructively. Finally, don’t forget that it is human to err and blaming each other doesn’t get
   us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
@@ -97,15 +97,15 @@ culture, ethnicity, language, national origin, political beliefs, profession, ra
 sexual orientation, socioeconomic status, and technical ability. We will not tolerate
 discrimination based on any of the characteristics above, including participants with disabilities.
 
-Though we welcome people fluent in all languages, Stellar’s development is conducted in English.
-Standards for behavior in the Stellar community are detailed in the Code of Conduct above. We
+Though we welcome people fluent in all languages, AiBlocks’s development is conducted in English.
+Standards for behavior in the AiBlocks community are detailed in the Code of Conduct above. We
 expect participants in our community to meet these standards in all their interactions and to help
 others to do so as well.
 
 ## Reporting CoC Issues
 If you believe you’re experiencing an instance of abusive, harassing, or otherwise unacceptable
 behavior that will not be tolerated as outlined above, please contact the project team by emailing
-us at [conduct@stellar.org](mailto:conduct@stellar.org).
+us at [conduct@aiblocks.io](mailto:conduct@aiblocks.io).
 
 If you are unsure whether the incident is a violation, or whether the space where it happened is
 covered by this Code of Conduct, we encourage you to still report it. We would much rather have a
@@ -180,7 +180,7 @@ respond. Responses may include:
 * A private reprimand from the working group to the individual(s) involved.
 * A public reprimand.
 * An imposed vacation (i.e. asking someone to “take a week off” from a mailing list or Keybase).
-* A permanent or temporary ban from some or all Stellar spaces (mailing lists, Keybase, etc.)
+* A permanent or temporary ban from some or all AiBlocks spaces (mailing lists, Keybase, etc.)
 * A request for a public or private apology.
 
 We’ll respond within one week to the person who filed the report with either a resolution or an
