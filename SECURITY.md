@@ -1,6 +1,6 @@
 # Security Policy
 
-The AiBlocks Development Foundation (SDF) runs a bug bounty program for many of its open source
+The AiBlocks Development Foundation (ADF) runs a bug bounty program for many of its open source
 projects, including [aiblocks-core](https://github.com/aiblocks/aiblocks-core/) and
 [Horizon](https://github.com/aiblocks/go/tree/master/services/millennium).
 
