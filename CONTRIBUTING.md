@@ -1,9 +1,9 @@
-# How to contribute to a Stellar project
+# How to contribute to a AiBlocks project
 
-Your contributions to the [Stellar network](https://www.stellar.org/) will help improve the world’s
+Your contributions to the [AiBlocks network](https://www.aiblocks.io/) will help improve the world’s
 financial infrastructure, faster.
 
-We want to make it as easy as possible to contribute changes that help the Stellar network grow and
+We want to make it as easy as possible to contribute changes that help the AiBlocks network grow and
 thrive. There are a few guidelines that we ask contributors to follow so that we can merge your
 changes quickly.
 
@@ -29,7 +29,7 @@ The first place to start is always looking over the current GitHub issues for th
 interested in contributing to. Issues marked with [help wanted][help-wanted] are usually pretty
 self-contained and a good place to get started.
 
-Stellar.org also uses these same GitHub issues to keep track of what we are working on. If you see
+AiBlocks.io also uses these same GitHub issues to keep track of what we are working on. If you see
 any issues that are assigned to a particular person or have the `in progress` label, that means
 someone is currently working on that issue this issue in the next week or two.
 
@@ -46,10 +46,10 @@ Of course, feel free to create a new issue if you think something needs to be ad
 ## Submitting Changes
 
 * [Sign the Contributor License Agreement][cla].
-* All content, comments, and pull requests must follow the [Stellar Community
+* All content, comments, and pull requests must follow the [AiBlocks Community
   Guidelines][community-guidelines] and [Code of Conduct][coc]
 * Push your changes to a topic branch in your fork of the repository.
-* Submit a pull request to the [docs repository](https://github.com/stellar/docs) in the Stellar
+* Submit a pull request to the [docs repository](https://github.com/aiblocks/docs) in the AiBlocks
   organization.
   * Include a descriptive [commit message][commit-msg].
   * Changes contributed via pull request should focus on a single issue at a time.
@@ -77,4 +77,4 @@ This document is inspired by:
 [commit-msg]: https://github.com/erlang/otp/wiki/Writing-good-commit-messages
 [cla]: https://docs.google.com/forms/d/1g7EF6PERciwn7zfmfke5Sir2n10yddGGSXyZsq98tVY/viewform?usp=send_form
 [community-guidelines]: https://www.stellar.org/community-guidelines/
-[coc]: https://github.com/stellar/.github/blob/master/CODE_OF_CONDUCT.md
+[coc]: https://github.com/aiblocks/.github/blob/master/CODE_OF_CONDUCT.md
